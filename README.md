@@ -1,5 +1,3 @@
-https://drive.google.com/file/d/1161IjZV1L-LEegf-VZFcGsnVUy8OMpSQ/view?usp=sharing
-
 # TE_IT_ARTIFICIAL_INTELLIGENCE
 
 ### Laboratory Assignments:
